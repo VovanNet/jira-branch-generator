@@ -2,7 +2,7 @@
 // @name         Jira Branch Name Copier with Type Selector
 // @description  Copy branch name to clipboard from Jira issue page with selectable type
 // @namespace    VovanNet/jira-branch-generator
-// @version      1.1.1
+// @version      1.1.2
 // @author       VovanNet
 // @match        https://*.atlassian.net/browse/*
 // @match        https://*.atlassian.net/jira/software/*/projects/*/boards/*
